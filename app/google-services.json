@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "927351395145",
+    "firebase_url": "https://notifyomatic-59479-default-rtdb.firebaseio.com",
+    "project_id": "notifyomatic-59479",
+    "storage_bucket": "notifyomatic-59479.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927351395145:android:96a5e98f7437faf45dc098",
+        "android_client_info": {
+          "package_name": "com.example.todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927351395145-g4qrq2se1qs1reqbvui7doern56h4h2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3EgCzPVkaZ3tRinJAq0l_TtwrVhj_y1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927351395145-g4qrq2se1qs1reqbvui7doern56h4h2o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

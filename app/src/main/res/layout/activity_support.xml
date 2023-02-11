@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#164597"
+    tools:context=".Support">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:orientation="vertical"
+            android:padding="23dp">
+
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="489dp"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentBottom="true"
+                android:layout_marginEnd="0dp"
+
+                android:layout_marginBottom="0dp">
+
+
+                <com.airbnb.lottie.LottieAnimationView
+                    android:id="@+id/Geof"
+                    android:layout_width="226dp"
+                    android:layout_height="127dp"
+                    android:layout_alignStart="@+id/textView2"
+
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentEnd="true"
+                    android:layout_gravity="center"
+                    android:layout_marginStart="5dp"
+                    android:layout_marginTop="115dp"
+                    android:layout_marginEnd="65dp"
+                    android:transitionName="logo_image"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.556"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintVertical_bias="0.266"
+                    app:lottie_autoPlay="true"
+                    app:lottie_loop="true"
+                    app:lottie_rawRes="@raw/music" />
+
+                <Button
+                    android:id="@+id/button2"
+                    android:layout_width="138dp"
+                    android:layout_height="64dp"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginStart="120dp"
+                    android:layout_marginEnd="107dp"
+                    android:layout_marginBottom="87dp"
+                    android:text="Pause" />
+
+                <TextView
+                    android:id="@+id/textView2"
+                    android:layout_width="236dp"
+                    android:layout_height="94dp"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginStart="70dp"
+                    android:layout_marginTop="13dp"
+                    android:layout_marginEnd="60dp"
+                    android:fontFamily="@font/bungee"
+                    android:gravity="center"
+                    android:text="How to Use Notifyomatic"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+
+                <SeekBar
+                    android:id="@+id/seekBar"
+                    android:layout_width="353dp"
+                    android:layout_height="31dp"
+                    android:layout_alignStart="@+id/Geof"
+                    android:layout_alignEnd="@+id/Geof"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginStart="-68dp"
+                    android:layout_marginTop="277dp"
+                    android:layout_marginEnd="-59dp" />
+
+
+            </RelativeLayout>
+
+            <com.airbnb.lottie.LottieAnimationView
+                android:id="@+id/imageView"
+                android:layout_width="246dp"
+                android:layout_height="183dp"
+                android:layout_gravity="center"
+                android:transitionName="logo_image"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+
+                app:layout_constraintHorizontal_bias="0.556"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.266"
+                app:lottie_autoPlay="true"
+                app:lottie_loop="true"
+                app:lottie_rawRes="@raw/support" />
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:gravity="left"
+                android:text="@string/textview" />
+
+
+        </LinearLayout>
+    </ScrollView>
+</ScrollView>

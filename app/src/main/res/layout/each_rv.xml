@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="200dp"
+    android:layout_gravity="left"
+    android:layout_margin="7dp"
+    android:background="@drawable/hitashri_shades">
+
+
+    <TextView
+        android:id="@+id/titlerv"
+        android:layout_width="315dp"
+        android:layout_height="49dp"
+        android:layout_marginStart="28dp"
+        android:layout_marginTop="16dp"
+        android:gravity="left"
+        android:padding="10dp"
+        android:text="Your Title"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/desprv"
+        android:layout_width="307dp"
+        android:layout_height="103dp"
+        android:layout_marginTop="72dp"
+        android:background="@drawable/rounded_blue_border"
+        android:gravity="left"
+        android:inputType="textMultiLine"
+        android:maxLines="10"
+
+        android:text="Enter your Description"
+        android:textColor="@color/black"
+        android:textSize="17sp"
+        app:layout_constraintEnd_toEndOf="@+id/titlerv"
+        app:layout_constraintStart_toStartOf="@+id/titlerv"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

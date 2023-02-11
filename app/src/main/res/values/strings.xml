@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Notifyomatic</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="textview">
+
+\n\n\n\n
+          <b>Notiyomatic  Creaters</b>\n
+        1) Vishal Singh\n
+        2) Prajwal Atram\n
+        3) Nupur Shinde\n
+        4) Hitashri Patil\n
+        5) Sameer Meshram\n
+
+
+         For More Queries\n
+        <b> Contact us:</b>\n
+        Email:- vishal.singh20@vit.edu\n
+        Phone no:- 8082983769\n
+
+
+
+       </string>
+    <string name="title_activity_maps2">MapsActivity2</string>
+</resources>
