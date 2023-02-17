@@ -32,7 +32,7 @@ git clone https://github.com/mankotia412vishal/Notifyomatic
   hidden inside it.
 |  Splash Screen | Login | 
 | :---:   | :---: |
-| <img style="border-width:50" src="https://user-images.githubusercontent.com/114608491/219359802-f3d7ca7a-2d47-44f1-8027-2d332f707cd1.jpg" width="800"/> | <img style="border-width:50" src="https://user-images.githubusercontent.com/114608491/219359802-f3d7ca7a-2d47-44f1-8027-2d332f707cd1.jpg" width="800"/>   |
+| <img style="border-width:90" src="https://user-images.githubusercontent.com/90970004/219635032-58f34c48-fd18-4822-a1c0-371fe96e3f02.png" width="060"/> | <img style="border-width:90" src="https://user-images.githubusercontent.com/90970004/219635086-9f4183e9-1eef-4b96-830b-885767ea4c97.png" width="600"/>   |
  
 
 
