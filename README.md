@@ -35,7 +35,9 @@ git clone https://github.com/mankotia412vishal/Notifyomatic
 | <img style="border-width:30" src="https://user-images.githubusercontent.com/90970004/219635032-58f34c48-fd18-4822-a1c0-371fe96e3f02.png" width="200"/> | <img style="border-width:30" src="https://user-images.githubusercontent.com/90970004/219635086-9f4183e9-1eef-4b96-830b-885767ea4c97.png" width="200"/>   | 
  
 
-
+|  Signup | DashBoard | 
+| :---:   | :---: | 
+| <img style="border-width:30" src="https://user-images.githubusercontent.com/90970004/219635150-e0e0950f-459a-46ce-9d56-c2300646c16a.png" width="200"/> | <img style="border-width:30" src="https://user-images.githubusercontent.com/90970004/219635200-f00d0ab6-493b-48b2-b2d6-8104f182bf5d.png" width="200"/>  |
 
 
  
